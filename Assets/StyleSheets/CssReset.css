@@ -1,0 +1,17 @@
+@font-face {
+    font-family: railway;
+    src: url(../font/Raleway-Light.ttf);
+}
+@font-face {
+    font-family: AnkhSanctuary;
+    src: url(../font/AnkhSanctuary-PVK0B.ttf);
+}
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+body{
+    width: 100%;
+    /* overflow: hidden; */
+    display: flex;
+    justify-content: center;
+}
